@@ -67,10 +67,7 @@ strikeBtn.onclick = () => {
         }
         if (currTeam1wickets === 2 || team1Ballsfaced ===6) {
             turn = 2;
-
-        }
-
-        
+        } 
     }
     updateScore();
 };
